@@ -50,7 +50,7 @@ Credit : Chantepie, S., Cornet, E., Salaün, V., & Reman, O. (2013). Hematogones
 
 ### Collaboration 
 
-This project is funded by Scientific and Technological Research Council of Turkey (TÜBİTAK) - 2209 A project support programme
+This project is funded by Scientific and Technological Research Council of Turkey (TÜBİTAK) 2209-A project support programme
 
 	https://tubitak.gov.tr/en/scholarships/degree-associate-degree/scholarship-programs/2209-research-project-support-programme-undergraduate-students
 
