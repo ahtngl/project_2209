@@ -1,4 +1,4 @@
-# Classification of Hemotogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
+# Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
 
 ## Definitions
 **Mature B Lymphocte** - plays role in adaptive immunity , produced in bone marrow
