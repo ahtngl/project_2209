@@ -1,13 +1,17 @@
 # Classification of Hemotogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
 
 ## Definitions
-Mature B Lymphocte : plays role in adaptive immunity , produced in bone marrow , overproduction can be seen in children that is known as 'hematogone hyperplasia'.
-Hematogone : what a cell that originates from stem cell of bone marrow (HSC) is called until it becomes a mature B lymphocte.
-Neoplastic B Lymphocte : abnormal proliferation of cells that originate from HSC that show distict immunophenotypic characteristic that is close to healthy hematogones.
+**Mature B Lymphocte** - produced in bone marrow , overproduction can be seen in children that is known as **hematogone hyperplasia**
+
+**Hematogone** - what a cell that originates from stem cell of bone marrow (HSC) is called until it becomes a mature B lymphocte
+
+**Neoplastic B Lymphocyte** - an abnormal cell that originates from HSC that show distict , aberrant immunophenotypic characteristic
   
 ## The Problem
-Hematogons (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lineage lymphoblasts.
-Hematogon hyperplasia ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL.
+**Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lineage lymphoblasts.
+
+**Hematogon hyperplasia** ( can be seen in children and after chemotherapy ) could be misinterpreted as B cell acute lymphoblastic leukaemia (B-ALL).
+
 Differentiating these two entities is essential for accurate B-ALL monitoring but often cannot be done.  
 
 ## The Solution
