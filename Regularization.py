@@ -1,4 +1,3 @@
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -30,18 +29,6 @@ def compute_cost_linear_reg(X, y, w, b, lambda_ = 1):
     
     total_cost = cost + reg_cost                                       #scalar
     return total_cost                                                  #scalar
-
-np.random.seed(1)
-X_tmp = np.random.rand(5,6)
-y_tmp = np.array([0,1,0,1,0])
-w_tmp = np.random.rand(X_tmp.shape[1]).reshape(-1,)-0.5
-b_tmp = 0.5
-lambda_tmp = 0.7
-cost_tmp = compute_cost_linear_reg(X_tmp, y_tmp, w_tmp, b_tmp, lambda_tmp)
-
-print("Regularized cost:", cost_tmp)
-
-#####
 
 def sigmoid(z):
     
