@@ -1,19 +1,19 @@
-## Classification of Hemotogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data
+# Classification of Hemotogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data
 
-# Definitions
+## Definitions
 Mature B Lymphocte : plays role in adaptive immunity , produced in bone marrow , overproduction can be seen in children that is known as 'hematogone hyperplasia'.
 Hematogone : what a cell that originates from stem cell of bone marrow (HSC) is called until it becomes a mature B lymphocte.
 Neoplastic B Lymphocte : abnormal proliferation of cells that originate from HSC that show distict immunophenotypic characteristic that is close to healthy hematogones.
   
-# The Problem
+## The Problem
 Hematogons (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lineage lymphoblasts.
 Hematogon hyperplasia ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL.
 Differentiating these two entities is essential for accurate B-ALL monitoring but often cannot be done.  
 
-# The Solution
+## The Solution
 Using machine learning - most likely logistic regression - to figure out how to classify these cells
 
-# What We Know
+## What We Know
 Aberrant antigen expression of neoplastic B lineage lymphoblasts:
 
 	(i) over expression of CD10 , CD34
