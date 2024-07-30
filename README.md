@@ -48,6 +48,19 @@ Credit : Chantepie, S., Cornet, E., Salaün, V., & Reman, O. (2013). Hematogones
 
 <img width="428" alt="Hematogon - overview" src="https://github.com/user-attachments/assets/0d24ef0e-3140-4a31-b7fd-e57c7533012b">
 
+### Collaboration 
+
+This project is funded by Scientific and Technological Research Council of Turkey (TÜBİTAK) - 2209 A project support programme
+
+	https://tubitak.gov.tr/en/scholarships/degree-associate-degree/scholarship-programs/2209-research-project-support-programme-undergraduate-students
+
+Machine learning model will be trained by the data obtained from Yeditepe University Stem Cell Laboratory § Flow Cytometry Facility
+
+
+<img width="250" alt="Screenshot 2024-07-30 at 15 46 32" src="https://github.com/user-attachments/assets/92b82614-9fd6-4cb3-8323-e0fe9ac200e6">
+<img width="600" alt="Screenshot 2024-07-30 at 15 43 16" src="https://github.com/user-attachments/assets/1e6dc9a2-43c3-4f5b-bf78-5578ca402ddc">
+
+
 ### References 
 Chen, W., Karandikar, N., McKenna, R., & Kroft, S. (2007). Stability of Leukemia-Associated immunophenotypes in precursor B-Lymphoblastic Leukemia/Lymphoma: a single institution experience. American Journal of Clinical Pathology, 127(1), 39–46. https://doi.org/10.1309/g465-770l-0168-v35u
 
