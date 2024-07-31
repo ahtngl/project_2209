@@ -3,16 +3,16 @@
 ## Definitions
 **Mature B Lymphocte** - plays role in adaptive immunity , produced in bone marrow
 
-**Hematogone** - what a cell that originates from hematopoietic stem cell (HSC) is called until it becomes a mature B lymphocyte , overproduction can be seen in children that is known as **hematogone hyperplasia**
+**Hematogone** - what a cell that originates from hematopoietic stem cell (HSC) is called until it becomes a mature B lymphocyte , overproduction can be seen in children that is known as **hematogone hyperplasia** , also known as B lymphoblast ( *suffix* - **blast** denotes immaturity )
 
 **Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show aberrant immunophenotypic characteristic
 
-**B cell acute lymphoblastic leukemia** ( B ALL ) - a common childhood cancer that occurs due to neoplastic B cell proliferation
+**B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
   
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lymphoblasts
 
-Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL
+Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL or minimal residual disease
 
 Differentiating these two entities is essential for accurate B-ALL monitoring but often cannot be done 
 
