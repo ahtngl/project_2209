@@ -8,11 +8,13 @@
 **Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show aberrant immunophenotypic characteristic
 
 **B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
+
+**Minimal Residual Disease** (MRD) - very small number of cancer cells ( in this case neoplastic B lymphoblast ) that remain in the body during or after treatment 
   
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
 
-Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL or minimal residual disease
+Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL or MRD
 
 Differentiating these two entities is essential for accurate B-ALL monitoring but often cannot be done 
 
