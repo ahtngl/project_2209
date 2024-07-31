@@ -5,9 +5,9 @@
 
 **Hematogone** - what a cell that originates from hematopoietic stem cell (HSC) is called until it becomes a mature B lymphocyte , overproduction can be seen in children that is known as **hematogone hyperplasia**
 
-**Neoplastic B Lymphocyte** - an abnormal cell that originates from HSC that show distict , aberrant immunophenotypic characteristic
+**Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show aberrant immunophenotypic characteristic
 
-**B cell acute lymphoblastic leukaemia** ( B ALL ) - a common childhood cancer that occurs due to neoplastic B cell proliferation
+**B cell acute lymphoblastic leukemia** ( B ALL ) - a common childhood cancer that occurs due to neoplastic B cell proliferation
   
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lymphoblasts
@@ -38,7 +38,7 @@ HG demonstrate consistent and reproducible antigen expression patterns during th
 
 Mature B cells are negative for CD34 , CD10 ; positive for CD20 , CD45 ; show variable patterns for CD38.
 
-### Flow Cytometry Analysis of Hemotogons and Neoplastic B Lymphoblasts
+### Flow Cytometry Analysis of Hematogons and Neoplastic B Lymphoblasts
 Credit : https://www.cytometry.org/web/q_view.php?id=4&filter=Interpretation%20and%20Clinical%20Application
 
 <img width="602" alt="ICCS" src="https://github.com/user-attachments/assets/ccb099b8-3f1f-4226-91ba-db05a83ab701">
@@ -61,6 +61,7 @@ Machine learning model will be trained by the data obtained from Yeditepe Univer
 <img width="200" alt="Screenshot 2024-07-30 at 15 46 32" src="https://github.com/user-attachments/assets/92b82614-9fd6-4cb3-8323-e0fe9ac200e6">
 <img width="500" alt="Screenshot 2024-07-30 at 15 43 16" src="https://github.com/user-attachments/assets/1e6dc9a2-43c3-4f5b-bf78-5578ca402ddc">
 
+### Supervisors
 
 ### References 
 Chen, W., Karandikar, N., McKenna, R., & Kroft, S. (2007). Stability of Leukemia-Associated immunophenotypes in precursor B-Lymphoblastic Leukemia/Lymphoma: a single institution experience. American Journal of Clinical Pathology, 127(1), 39–46. https://doi.org/10.1309/g465-770l-0168-v35u
