@@ -9,7 +9,7 @@
 
 **B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
 
-**Minimal Residual Disease** (MRD) - very small number of cancer cells ( in this case neoplastic B lymphoblast ) that remain in the body during or after treatment 
+**Minimal Residual Disease** (MRD) - very small number of cancer cells ( in this case neoplastic B lymphoblast ) that remain in the body during or after treatment , an independent predictor for an increased risk of relapse in B-ALL [iv]
   
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
@@ -66,14 +66,16 @@ Machine learning model will be trained by the data obtained from Yeditepe Univer
 ### Supervisors
 
 ### References 
-Chen, W., Karandikar, N., McKenna, R., & Kroft, S. (2007). Stability of Leukemia-Associated immunophenotypes in precursor B-Lymphoblastic Leukemia/Lymphoma: a single institution experience. American Journal of Clinical Pathology, 127(1), 39–46. https://doi.org/10.1309/g465-770l-0168-v35u
+i. Chen, W., Karandikar, N., McKenna, R., & Kroft, S. (2007). Stability of Leukemia-Associated immunophenotypes in precursor B-Lymphoblastic Leukemia/Lymphoma: a single institution experience. American Journal of Clinical Pathology, 127(1), 39–46. https://doi.org/10.1309/g465-770l-0168-v35u
 
-Chantepie, S., Cornet, E., Salaün, V., & Reman, O. (2013). Hematogones: An overview. Leukemia Research, 37(11), 1404–1411. https://doi.org/10.1016/j.leukres.2013.07.024
+ii. Chantepie, S., Cornet, E., Salaün, V., & Reman, O. (2013). Hematogones: An overview. Leukemia Research, 37(11), 1404–1411. https://doi.org/10.1016/j.leukres.2013.07.024
 
-Eveillard, M., Floc’h, V., Robillard, N., Debord, C., Wuilleme, S., Garand, R., Rialland, F., Thomas, C., Peterlin, P., Guillaume, T., Moreau, P., Chevallier, P., & Bene, M. C. (2016). CD38 expression in B-Lineage acute lymphoblastic leukemia, a possible target for immunotherapy. Blood, 128(22), 5268. https://doi.org/10.1182/blood.v128.22.5268.5268
+iii. Eveillard, M., Floc’h, V., Robillard, N., Debord, C., Wuilleme, S., Garand, R., Rialland, F., Thomas, C., Peterlin, P., Guillaume, T., Moreau, P., Chevallier, P., & Bene, M. C. (2016). CD38 expression in B-Lineage acute lymphoblastic leukemia, a possible target for immunotherapy. Blood, 128(22), 5268. https://doi.org/10.1182/blood.v128.22.5268.5268
 
-Seegmiller, A. C., Kroft, S. H., Karandikar, N. J., & McKenna, R. W. (2009). Characterization of immunophenotypic aberrancies in 200 cases of B acute lymphoblastic leukemia. American Journal of Clinical Pathology, 132(6), 940–949. https://doi.org/10.1309/ajcp8g5rmtwuemuu
+iv. Fuda, F., & Chen, W. (2018). Minimal/Measurable residual disease detection in acute leukemias by multiparameter flow cytometry. Current Hematologic Malignancy Reports, 13(6), 455–466. https://doi.org/10.1007/s11899-018-0479-1
 
-McKenna, R. W., Washington, L. T., Aquino, D. B., Picker, L. J., & Kroft, S. H. (2001). Immunophenotypic analysis of hematogones (B-lymphocyte precursors) in 662 consecutive bone marrow specimens by 4-color flow cytometry. Blood, 98(8), 2498–2507. https://doi.org/10.1182/blood.v98.8.2498
+v. Seegmiller, A. C., Kroft, S. H., Karandikar, N. J., & McKenna, R. W. (2009). Characterization of immunophenotypic aberrancies in 200 cases of B acute lymphoblastic leukemia. American Journal of Clinical Pathology, 132(6), 940–949. https://doi.org/10.1309/ajcp8g5rmtwuemuu
 
-Shaver, A. C., Greig, B. W., Mosse, C. A., & Seegmiller, A. C. (2015). B-ALL Minimal Residual Disease Flow Cytometry. American Journal of Clinical Pathology, 143(5), 716–724. https://doi.org/10.1309/ajcpoojravun75gd
+vi. McKenna, R. W., Washington, L. T., Aquino, D. B., Picker, L. J., & Kroft, S. H. (2001). Immunophenotypic analysis of hematogones (B-lymphocyte precursors) in 662 consecutive bone marrow specimens by 4-color flow cytometry. Blood, 98(8), 2498–2507. https://doi.org/10.1182/blood.v98.8.2498
+
+vii. Shaver, A. C., Greig, B. W., Mosse, C. A., & Seegmiller, A. C. (2015). B-ALL Minimal Residual Disease Flow Cytometry. American Journal of Clinical Pathology, 143(5), 716–724. https://doi.org/10.1309/ajcpoojravun75gd
