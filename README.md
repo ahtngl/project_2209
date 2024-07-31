@@ -1,7 +1,7 @@
 # Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
 
 ## Definitions
-**Mature B Lymphocte** - plays role in adaptive immunity , produced in bone marrow
+**Mature B Lymphocyte** - plays role in adaptive immunity , produced in bone marrow
 
 **Hematogone** - what a cell that originates from hematopoietic stem cell (HSC) is called until it becomes a mature B lymphocyte , overproduction can be seen in children that is known as **hematogone hyperplasia** , also known as B lymphoblast
 
