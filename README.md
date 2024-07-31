@@ -10,7 +10,7 @@
 **B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
   
 ## The Problem
-**Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to neoplastic B lymphoblasts
+**Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
 
 Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL or minimal residual disease
 
