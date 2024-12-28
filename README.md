@@ -3,7 +3,7 @@
 ## Definitions
 **Mature B Lymphocyte** - plays role in adaptive immunity , produced by hematopoietic stem cell (HSC) in bone marrow
 
-**Hematogone** - a normal immature B cell that originates from HSC , they undergo lymphopoiesis to become mature B lymphocyte
+**Hematogone** - a normal immature B cell that originates from HSC , undergoes lymphopoiesis to become a mature B lymphocyte
 
 **Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show an aberrant immunophenotype
 
@@ -19,7 +19,7 @@ Thus , **hematogon overproduction** ( can be seen in children and those who rece
 Differentiating these two entity is essential for accurate B-ALL monitoring but it can hardly achieved , often cannot be done 
 
 ## The Solution
-Using machine learning - most likely Logistic Regression + K Means algorithms - to figure out how to classify these cells
+Using machine learning - most likely logistic regression - to figure out how to classify these cells
 
 ## What We Know
 Aberrant antigen expression of neoplastic B lineage lymphoblasts:
