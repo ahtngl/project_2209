@@ -1,3 +1,5 @@
+# Citation: Ng, A. (Instructor). (2018). "Supervised machine learning: Regression and classification" [Online course]. Coursera. https://www.coursera.org/learn/machine-learning
+
 import numpy as np
 import matplotlib.pyplot as plt
 
