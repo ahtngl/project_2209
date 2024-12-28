@@ -1,3 +1,4 @@
+# Citation: Ng, A. (Instructor). (2018). "Supervised machine learning: Regression and classification" [Online course]. Coursera. https://www.coursera.org/learn/machine-learning
 
 # Logistic Regression
 import copy, math
