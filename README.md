@@ -1,11 +1,11 @@
 # Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
 
 ## Definitions
-**Mature B Lymphocyte** - plays role in adaptive immunity , produced in bone marrow
+**Mature B Lymphocyte** - plays role in adaptive immunity , produced by hematopoietic stem cell (HSC) in bone marrow
 
-**Hematogone** - what a cell that originates from hematopoietic stem cell (HSC) is called until it becomes a mature B lymphocyte , overproduction can be seen in children that is known as **hematogone hyperplasia** , also known as B lymphoblast
+**Hematogone** - a normal immature B cell that originates from HSC , they undergo lymphopoiesis to become mature B lymphocyte
 
-**Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show aberrant immunophenotypic characteristic
+**Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show an aberrant immunophenotype
 
 **B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
 
@@ -14,12 +14,12 @@
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
 
-Therefore , **hematogon overproduction** ( can be seen in children and after chemotherapy ) could be misinterpreted as B-ALL or MRD
+Thus , **hematogon overproduction** ( can be seen in children and those who receive chemotherapy ) could be misinterpreted as B-ALL or MRD
 
-Differentiating these two entities is essential for accurate B-ALL monitoring but often cannot be done 
+Differentiating these two entity is essential for accurate B-ALL monitoring but it can hardly achieved , often cannot be done 
 
 ## The Solution
-Using machine learning - most likely logistic regression - to figure out how to classify these cells
+Using machine learning - most likely Logistic Regression + K Means algorithms - to figure out how to classify these cells
 
 ## What We Know
 Aberrant antigen expression of neoplastic B lineage lymphoblasts:
