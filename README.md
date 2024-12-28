@@ -14,7 +14,7 @@
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
 
-Thus , **hematogon overproduction** ( can be seen in children and those who receive chemotherapy ) could be misinterpreted as B-ALL or MRD
+**Hematogon overproduction** ( can be seen in children and those who receive chemotherapy ) could be misinterpreted as B-ALL or MRD
 
 Differentiating these two entity is essential for accurate B-ALL monitoring but it can hardly achieved , often cannot be done 
 
