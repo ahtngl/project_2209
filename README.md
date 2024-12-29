@@ -19,7 +19,7 @@
 Differentiating between these two entities is crucial for accurate B-ALL monitoring , but it is often challenging and , in many cases , cannot be reliably achieved
 
 ## The Solution
-Using supervised machine learning to figure out how to classify these cells
+Using supervised machine learning to determine the optimal linear combination of parameters for classifying these cell populations
 
 ## What We Know
 Aberrant antigen expression of neoplastic B lineage lymphoblasts:
@@ -44,11 +44,6 @@ Mature B cells are negative for CD34 , CD10 ; positive for CD20 , CD45 ; show va
 Credit : https://www.cytometry.org/web/q_view.php?id=4&filter=Interpretation%20and%20Clinical%20Application
 
 <img width="602" alt="ICCS" src="https://github.com/user-attachments/assets/ccb099b8-3f1f-4226-91ba-db05a83ab701">
-
-### Steps that hematogones go through until they become mature B lymphocytes
-Credit : Chantepie, S., Cornet, E., Salaün, V., & Reman, O. (2013). Hematogones: An overview. Leukemia Research, 37(11), 1404–1411. https://doi.org/10.1016/j.leukres.2013.07.024
-
-<img width="428" alt="Hematogon - overview" src="https://github.com/user-attachments/assets/0d24ef0e-3140-4a31-b7fd-e57c7533012b">
 
 ### Collaboration 
 
