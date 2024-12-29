@@ -1,9 +1,9 @@
 # Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data
 
 ## Definitions
-**Mature B Lymphocyte** - plays role in adaptive immunity , produced by hematopoietic stem cell (HSC) in bone marrow
+**Mature B Lymphocyte** - plays role in adaptive immunity , produced by hematopoietic stem cell (HSC) in the bone marrow
 
-**Hematogone** - a normal immature B cell that originates from HSC , undergoes lymphopoiesis to become a mature B lymphocyte
+**Hematogone** - a normal immature B cell , undergoes lymphopoiesis to become a mature B lymphocyte
 
 **Neoplastic B Lymphoblast** - an abnormal cell that originates from HSC that show an aberrant immunophenotype
 
