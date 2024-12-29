@@ -9,17 +9,17 @@
 
 **B cell acute lymphoblastic leukemia** ( B-ALL ) - a common childhood cancer that occurs due to neoplastic B lymphoblast proliferation
 
-**Minimal Residual Disease** (MRD) - very small number of cancer cells ( in this case neoplastic B lymphoblast ) that remain in the body during or after treatment , an independent predictor for an increased risk of relapse in B-ALL [iv]
+**Minimal Residual Disease** (MRD) - very small number of cancer cells ( in this case neoplastic B lymphoblast ) that remain in the body during or after treatment , an independent predictor for an increased risk of relapse in B-ALL
   
 ## The Problem
 **Hematogons** (HGs) are immature B lineage cells that show similar immunophenotypic characteristics to **neoplastic B lymphoblasts**
 
 **Hematogon overproduction** ( can be seen in children and those who receive chemotherapy ) could be misinterpreted as B-ALL or MRD
 
-Differentiating these two entity is essential for accurate B-ALL monitoring but it can hardly achieved , often cannot be done 
+Differentiating between these two entities is crucial for accurate B-ALL monitoring , but it is often challenging and , in many cases , cannot be reliably achieved
 
 ## The Solution
-Using machine learning - most likely logistic regression - to figure out how to classify these cells
+Using supervised machine learning to figure out how to classify these cells
 
 ## What We Know
 Aberrant antigen expression of neoplastic B lineage lymphoblasts:
