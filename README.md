@@ -1,4 +1,4 @@
-# Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Data
+# Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data
 
 ## Definitions
 **Mature B Lymphocyte** - plays role in adaptive immunity , produced by hematopoietic stem cell (HSC) in bone marrow
